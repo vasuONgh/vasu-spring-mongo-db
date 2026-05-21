@@ -1,0 +1,6 @@
+com/vasoo/springmongo/UserController.class
+com/vasoo/springmongo/User.class
+com/vasoo/springmongo/UserRepository.class
+com/vasoo/springmongo/WebConfig.class
+com/vasoo/springmongo/DemoApp.class
+com/vasoo/springmongo/UserResource.class
